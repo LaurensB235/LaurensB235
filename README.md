@@ -18,6 +18,11 @@ Welcome to my github page. I created this page to store any new projects that I 
 
 ### Frameworks
 
+
+### Theory
+
+
+
 ---
 
 ### Projects
