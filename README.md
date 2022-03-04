@@ -12,9 +12,12 @@ Welcome to my github page. I created this page to store any new projects that I 
 
 ### Languages
 
-| <img src="./resources/languages/java.png" width="100" height="200" alt="Java language"/> |
-|------------------------------------------------------------------------------------------|
-| <div style="text-align:center"> &#9733; &#9733; &#9733; &#9733; &#9734; </div> |
+| <img src="./resources/languages/java.png" width="80" height="80" alt="Java language"/> | <img src="./resources/languages/javascript.png" width="80" height="80" alt="Javascript language"/> | <img src="./resources/languages/css.png" width="100" height="100" alt="Javascript language"/> | <img src="./resources/languages/html.png" width="100" height="100" alt="Javascript language"/> | <img src="./resources/languages/python.png" width="80" height="80" alt="Javascript language"/>|
+|---|---|---|---|--|
+| &#9733; &#9733; &#9733; &#9733; &#9733; &#9734; | &#9733; &#9733; &#9733; &#9733; &#9734; &#9734; | &#9733; &#9733; &#9733; &#9733; &#9734; &#9734; | &#9733; &#9733; &#9733; &#9733; &#9734; &#9734; |&#9733; &#9733; &#9733; &#9734; &#9734; &#9734; |
+
+### Frameworks
+
 ---
 
 ### Projects
