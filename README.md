@@ -48,9 +48,9 @@ Below I will list every project that I am working on, as I start them. When I fi
 
 > ### 2D Pathfinding
 > 
-> | Started | Finished | Happiness |
-> | --- | --- | --- |
-> | 04/03/2022 |  |  |
+> | Started | Paused | Resumed | Finished | Happiness |
+> | --- | --- | --- | --- | --- |
+> | 04/03/2022 | 05/03/2022 | 08/04/2022 | | |
 
 ---
 
